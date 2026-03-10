@@ -1,0 +1,5 @@
+{
+  "name": "Universal Video Downloader",
+  "description": "A modern, full-stack video downloader for YouTube, TikTok, and Instagram using loader.to API.",
+  "requestFramePermissions": []
+}
